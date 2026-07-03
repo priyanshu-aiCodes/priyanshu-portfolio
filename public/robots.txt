@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://priyanshu-aicodes.vercel.app/sitemap.xml
