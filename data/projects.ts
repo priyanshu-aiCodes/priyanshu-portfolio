@@ -36,6 +36,7 @@ export const projects: Project[] = [
     tags: ["Python", "Pygame"],
     category: "Game",
     githubUrl: "https://github.com/priyanshu-aiCodes/Galaxy-Rescue-Shooter",
+    liveUrl: "https://priyanshu-aicodes.github.io/Galaxy-Rescue-Shooter/",
     featured: true,
   },
   {
